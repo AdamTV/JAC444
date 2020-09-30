@@ -14,6 +14,7 @@ package com.adamstinziani;
 
 import java.util.Scanner;
 
+// contains logic to complete workshop 1.
 public class Main {
 
     // main entry point of workshop.
@@ -29,10 +30,6 @@ public class Main {
     // contains logic to complete task 1.
     private static void Task1() {
         float[][] arrayToProcess = GetTwoDimensionalArrayFromUserInput();
-        if (arrayToProcess.length == 0 || arrayToProcess[0].length == 0) {
-            System.out.println("Entered 0 for array dimension(s), cannot create 2-dimensional array. Skipping Task 1.");
-            return;
-        }
         MaxLocation maxLocation = MaxLocation.GetMaxLocation(arrayToProcess);
         System.out.println("The value of the largest element is: " + maxLocation.maxValue + " located at [" + maxLocation.row + "][" + maxLocation.column + "]");
     }
@@ -50,6 +47,10 @@ public class Main {
         System.out.print("Enter the number of columns in the array: ");
         int columns = sc.nextInt();
         System.out.println();
+        if (rows == 0 || columns == 0) {
+            System.out.println("Entered 0 for array dimension(s), cannot create 2-dimensional array. Please try again.");
+            return GetTwoDimensionalArrayFromUserInput();
+        }
         float[][] arrayCapturedFromUserInput = new float[rows][columns];
         System.out.println("Enter one row of the array at a time, separating column values with commas. Press enter to go to next row: ");
         for (int i = 0; i < rows; i++) {

@@ -1,0 +1,8 @@
+Name: Adam Stinziani
+ID: 124521188
+=======================
+This week I revisited Java and created a program using: classes, methods, single and two-dimensional arrays. 
+
+I have studied Java and spent a year at my Co-Op mainly working with the .NET Framework so classes and methods are nothing new to me, however the sytnax will take some getting used to. 
+
+My key takeaway from this workshop is that two-dimensional arrays cannot be initialized with a row or column size of zero. This will throw a run-time error and for this reason I added logic in my code to handle this scenario.

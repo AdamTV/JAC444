@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66675ac1-8f62-484e-a2d2-34674447dc59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Workshop1/src/com/adamstinziani/Stinziani_124521188.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Workshop2/ca/sict/adamstinziani/IncomeTax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Workshop2/ca/sict/adamstinziani/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/sict/adamstinziani/IncomeTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/sict/adamstinziani/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workshop1/out/production/Workshop1/com/adamstinziani/Craps.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Workshop1/out/production/Workshop1/com/adamstinziani/Craps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workshop1/out/production/Workshop1/com/adamstinziani/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Workshop1/out/production/Workshop1/com/adamstinziani/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workshop1/out/production/Workshop1/com/adamstinziani/MaxLocation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Workshop1/out/production/Workshop1/com/adamstinziani/MaxLocation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workshop1/src/com/adamstinziani/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Workshop1/src/com/adamstinziani/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="false" />
+        <option name="checksumPolicy" value="NOT_SET" />
+        <option name="failureBehavior" value="NOT_SET" />
+        <option name="localRepository" value="" />
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+        <option name="nonRecursive" value="false" />
+        <option name="outputLevel" value="INFO" />
+        <option name="pluginUpdatePolicy" value="DEFAULT" />
+        <option name="printErrorStackTraces" value="false" />
+        <option name="threads" />
+        <option name="usePluginRegistry" value="false" />
+        <option name="userSettingsFile" value="" />
+        <option name="workOffline" value="false" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="autoDetectCompiler" value="true" />
+        <option name="createModuleGroups" value="false" />
+        <option name="createModulesForAggregators" value="true" />
+        <option name="dedicatedModuleDir" value="" />
+        <option name="dependencyTypes" value="jar, test-jar, maven-plugin, ejb, ejb-client, jboss-har, jboss-sar, war, ear, bundle" />
+        <option name="downloadAnnotationsAutomatically" value="false" />
+        <option name="downloadDocsAutomatically" value="false" />
+        <option name="downloadSourcesAutomatically" value="false" />
+        <option name="excludeTargetFolder" value="true" />
+        <option name="generatedSourcesFolder" value="AUTODETECT" />
+        <option name="importAutomatically" value="false" />
+        <option name="jdkForImporter" value="#JAVA_INTERNAL" />
+        <option name="keepSourceFolders" value="true" />
+        <option name="lookForNested" value="false" />
+        <option name="updateFoldersOnImportPhase" value="process-resources" />
+        <option name="useMavenOutput" value="true" />
+        <option name="vmOptionsForImporter" value="" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list />
+    </option>
+    <option name="disabledProfiles">
+      <list />
+    </option>
+  </component>
+  <component name="ProjectId" id="1iCZqPwYIX2wSS1I8Q0KQ03Nctj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ca.sict.adamstinziani.Main" />
+      <module name="Workshop2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66675ac1-8f62-484e-a2d2-34674447dc59" name="Default Changelist" comment="" />
+      <created>1601413724875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601413724875</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601420305569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601420305569" />
+    <state x="689" y="321" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601420273465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="321" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601420273465" />
+    <state x="575" y="88" key="CommitChangelistDialog2" timestamp="1601434009572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="575" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601434009572" />
+    <state width="1877" height="239" key="GridCell.Tab.0.bottom" timestamp="1601434023200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601434023200" />
+    <state width="1877" height="239" key="GridCell.Tab.0.center" timestamp="1601434023200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="239" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601434023200" />
+    <state width="1877" height="239" key="GridCell.Tab.0.left" timestamp="1601434023200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="239" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601434023200" />
+    <state width="1877" height="239" key="GridCell.Tab.0.right" timestamp="1601434023200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="239" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601434023200" />
+    <state width="1877" height="329" key="GridCell.Tab.1.bottom" timestamp="1601433391234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="329" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601433391234" />
+    <state width="1877" height="329" key="GridCell.Tab.1.center" timestamp="1601433391234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="329" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601433391234" />
+    <state width="1877" height="329" key="GridCell.Tab.1.left" timestamp="1601433391234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="329" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601433391234" />
+    <state width="1877" height="329" key="GridCell.Tab.1.right" timestamp="1601433391234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="329" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601433391234" />
+    <state x="551" y="203" key="new project wizard" timestamp="1601413774044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="203" key="new project wizard/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601413774044" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="IncomeTax.taxableIncome" />
+        <watch expression="incomeTax" />
+        <watch expression="j" />
+        <watch expression="taxBrackets[z]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
