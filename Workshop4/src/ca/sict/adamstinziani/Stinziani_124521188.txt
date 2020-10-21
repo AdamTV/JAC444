@@ -1,0 +1,30 @@
+==================================================================================
+
+Workshop: 4
+Name: Adam Stinziani
+ID: 124521188
+
+==================================================================================
+
+In this workshop I continued practicing my basic Java coding skills by creating 
+classes and methods using arrays as well as the Java I/O and exception handling.
+
+I practiced managing resources with syntax very similar to C# I/O, as well as
+reading from and writing to files with the Java I/O API.
+It is very interesting to learn that in Java if you define a function that
+possibly throws an exception, you must say so in it's signature.
+
+==================================================================================
+
+Instructions on how to run code: 
+from cmd in parent directory of 'ca':
+
+javac ./ca/sict/adamstinziani/*.java
+
+echo Main-Class: ca.sict.adamstinziani.Workshop >./ca/sict/adamstinziani/manifest.txt
+
+jar -cvfm ./ca/sict/adamstinziani/Workshop.jar ./ca/sict/adamstinziani/manifest.txt ./ca/sict/adamstinziani/*.class
+
+java -jar ./ca/sict/adamstinziani/Workshop.jar
+
+==================================================================================

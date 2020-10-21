@@ -1,32 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66675ac1-8f62-484e-a2d2-34674447dc59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Workshop1/src/com/adamstinziani/Stinziani_124521188.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/template-meta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Workshop2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Workshop2/ca/sict/adamstinziani/IncomeTax.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Workshop2/ca/sict/adamstinziani/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/sict/adamstinziani/IncomeTax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/sict/adamstinziani/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Workshop1/out/production/Workshop1/com/adamstinziani/Craps.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Workshop1/out/production/Workshop1/com/adamstinziani/Craps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Workshop1/out/production/Workshop1/com/adamstinziani/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Workshop1/out/production/Workshop1/com/adamstinziani/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Workshop1/out/production/Workshop1/com/adamstinziani/MaxLocation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Workshop1/out/production/Workshop1/com/adamstinziani/MaxLocation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Workshop1/src/com/adamstinziani/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Workshop1/src/com/adamstinziani/Main.java" afterDir="false" />
+    <list default="true" id="d8f13d8c-62de-4d50-a9a5-e52fd69b643b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stinziani_124521188.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/sict/adamstinziani/IncomeTax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/sict/adamstinziani/Stinziani_124521188.mkv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/sict/adamstinziani/Stinziani_124521188.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/sict/adamstinziani/Workshop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/sict/adamstinziani/Workshop2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/sict/adamstinziani/manifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/Workshop3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/src/ca/sict/adamstinziani/BasePlusCommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/src/ca/sict/adamstinziani/CommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/src/ca/sict/adamstinziani/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/src/ca/sict/adamstinziani/HourlyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/src/ca/sict/adamstinziani/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/src/ca/sict/adamstinziani/PayableInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop3/src/ca/sict/adamstinziani/SalariedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop4/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop4/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop4/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop4/Workshop3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop4/src/ca/sict/adamstinziani/Hangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop4/src/ca/sict/adamstinziani/LetterCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop4/src/ca/sict/adamstinziani/hangman.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop4/src/ca/sict/adamstinziani/task2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workshop2/ca/sict/adamstinziani/IncomeTax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workshop2/ca/sict/adamstinziani/IncomeTax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workshop2/ca/sict/adamstinziani/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/sict/adamstinziani/IncomeTax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/sict/adamstinziani/IncomeTax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/sict/adamstinziani/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/sict/adamstinziani/Workshop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -84,7 +106,7 @@
       <list />
     </option>
   </component>
-  <component name="ProjectId" id="1iCZqPwYIX2wSS1I8Q0KQ03Nctj" />
+  <component name="ProjectId" id="1iMAaMSHLEoVgQ1mUEVH9lnm13T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -93,11 +115,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="restartRequiresConfirmation" value="false" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="ca.sict.adamstinziani.Main" />
+      <option name="MAIN_CLASS_NAME" value="ca.sict.adamstinziani.Workshop" />
       <module name="Workshop2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,72 +130,70 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="66675ac1-8f62-484e-a2d2-34674447dc59" name="Default Changelist" comment="" />
-      <created>1601413724875</created>
+      <changelist id="d8f13d8c-62de-4d50-a9a5-e52fd69b643b" name="Default Changelist" comment="" />
+      <created>1601707150518</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601413724875</updated>
+      <updated>1601707150518</updated>
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="414" y="174" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601420305569">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="414" y="174" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601420305569" />
-    <state x="689" y="321" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601420273465">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="689" y="321" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601420273465" />
-    <state x="575" y="88" key="CommitChangelistDialog2" timestamp="1601434009572">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="575" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601434009572" />
-    <state width="1877" height="239" key="GridCell.Tab.0.bottom" timestamp="1601434023200">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601434023200" />
-    <state width="1877" height="239" key="GridCell.Tab.0.center" timestamp="1601434023200">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="239" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601434023200" />
-    <state width="1877" height="239" key="GridCell.Tab.0.left" timestamp="1601434023200">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="239" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601434023200" />
-    <state width="1877" height="239" key="GridCell.Tab.0.right" timestamp="1601434023200">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="239" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601434023200" />
-    <state width="1877" height="329" key="GridCell.Tab.1.bottom" timestamp="1601433391234">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="329" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601433391234" />
-    <state width="1877" height="329" key="GridCell.Tab.1.center" timestamp="1601433391234">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="329" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601433391234" />
-    <state width="1877" height="329" key="GridCell.Tab.1.left" timestamp="1601433391234">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="329" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601433391234" />
-    <state width="1877" height="329" key="GridCell.Tab.1.right" timestamp="1601433391234">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="329" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601433391234" />
-    <state x="551" y="203" key="new project wizard" timestamp="1601413774044">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="551" y="203" key="new project wizard/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601413774044" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="IncomeTax.taxableIncome" />
-        <watch expression="incomeTax" />
-        <watch expression="j" />
-        <watch expression="taxBrackets[z]" language="JAVA" />
-      </configuration>
-    </watches-manager>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601748213838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.9.1920.1080@0.0.1920.1040" timestamp="1601748213838" />
+    <state x="689" y="321" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601707214876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="321" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.9.1920.1080@0.0.1920.1040" timestamp="1601707214876" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1601920069246">
+      <screen x="1920" y="9" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.9.1920.1080@0.0.1920.1040" timestamp="1601742568946" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.9.1920.1080@1920.9.1920.1080" timestamp="1601920069246" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1601920069244">
+      <screen x="1920" y="9" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.9.1920.1080@0.0.1920.1040" timestamp="1601742568946" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.9.1920.1080@1920.9.1920.1080" timestamp="1601920069244" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1601920069244">
+      <screen x="1920" y="9" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.9.1920.1080@0.0.1920.1040" timestamp="1601742568946" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.9.1920.1080@1920.9.1920.1080" timestamp="1601920069244" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1601920069245">
+      <screen x="1920" y="9" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.9.1920.1080@0.0.1920.1040" timestamp="1601742568946" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.9.1920.1080@1920.9.1920.1080" timestamp="1601920069245" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1601920069247">
+      <screen x="1920" y="9" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.9.1920.1080@0.0.1920.1040" timestamp="1601742568946" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.9.1920.1080@1920.9.1920.1080" timestamp="1601920069247" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1601920069247">
+      <screen x="1920" y="9" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.9.1920.1080@0.0.1920.1040" timestamp="1601742568946" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.9.1920.1080@1920.9.1920.1080" timestamp="1601920069247" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1601920069247">
+      <screen x="1920" y="9" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.9.1920.1080@0.0.1920.1040" timestamp="1601742568946" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.9.1920.1080@1920.9.1920.1080" timestamp="1601920069247" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1601920069247">
+      <screen x="1920" y="9" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.9.1920.1080@0.0.1920.1040" timestamp="1601742568946" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.9.1920.1080@1920.9.1920.1080" timestamp="1601920069247" />
+    <state x="2471" y="220" key="new project wizard" timestamp="1602087458673">
+      <screen x="1920" y="9" width="1920" height="1080" />
+    </state>
+    <state x="551" y="203" key="new project wizard/0.0.1920.1040/1920.9.1920.1080@0.0.1920.1040" timestamp="1601707395974" />
+    <state x="2471" y="220" key="new project wizard/0.0.1920.1040/1920.9.1920.1080@1920.9.1920.1080" timestamp="1602087458673" />
   </component>
 </project>
