@@ -1,0 +1,11 @@
+kitty
+program
+java
+ocean
+angular
+react
+javascript
+pizza
+fortnite
+banana
+winter

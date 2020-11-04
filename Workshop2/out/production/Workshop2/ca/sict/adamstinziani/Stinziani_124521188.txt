@@ -1,0 +1,28 @@
+==================================================================================
+Name: Adam Stinziani
+ID: 124521188
+==================================================================================
+In this workshop I continued practicing my basic java coding skills by creating 
+classes and methods using arrays.
+
+I avoided creating a utility class by implementing non-static methods such as the
+constructors and getIncomeTax(). My original implementation contained all static 
+methods and made no use of the constructors, when I tried instantiating IncomeTax 
+is when I learned I had created a utility class. 
+
+Refactoring fixed the problem, moved validation logic into the constructor and 
+avoided the use of utility classes.
+
+==================================================================================
+Instructions on how to run code: 
+from cmd in parent directory of 'ca':
+
+javac ./ca/sict/adamstinziani/*.java
+
+echo Main-Class: ca.sict.adamstinziani.Workshop >./ca/sict/adamstinziani/manifest.txt
+
+jar -cvfm ./ca/sict/adamstinziani/Workshop2.jar ./ca/sict/adamstinziani/manifest.txt ./ca/sict/adamstinziani/*.class
+
+java -jar ./ca/sict/adamstinziani/Workshop2.jar
+
+==================================================================================
