@@ -1,0 +1,31 @@
+==================================================================================
+
+Workshop: 8
+Name: Adam Stinziani
+ID: 124521188
+
+==================================================================================
+
+In this workshop I continued practicing my basic Java coding skills by focuing on
+Java threads.
+
+Like any threads, Java threads look like tons of fun to work with, I mean who
+wants their code to do what it's supposed to anyways? All jokes aside, I think
+this workshop gave me experiece with the value of the simple thread locking
+mechanism (wait / notify) and multithreaded code blocks (synchronized)
+available in Java.
+
+==================================================================================
+
+Instructions on how to run code: 
+from cmd in parent directory of 'ca':
+
+javac ./ca/sict/adamstinziani/*.java
+
+echo Main-Class: ca.sict.adamstinziani.Workshop >./ca/sict/adamstinziani/manifest.txt
+
+jar -cvfm ./ca/sict/adamstinziani/Workshop.jar ./ca/sict/adamstinziani/manifest.txt ./ca/sict/adamstinziani/*.class
+
+java -jar ./ca/sict/adamstinziani/Workshop.jar
+
+==================================================================================

@@ -1,0 +1,31 @@
+==================================================================================
+
+Workshop: 7
+Name: Adam Stinziani
+ID: 124521188
+
+==================================================================================
+
+In this workshop I continued practicing my basic Java coding skills by creating 
+a GUI and working with event handlers as well as using lambda expressions again
+and the collection framework.
+
+The HashMap class in Java has the same functionaly of the Dictionary class in C#
+and I have a lot of practice working with Dictionaries so I am familiar with
+HashMaps. Instead of using a collection that would easily be able to remove
+duplicates from itself, I did it myself.
+
+==================================================================================
+
+Instructions on how to run code: 
+from cmd in parent directory of 'ca':
+
+javac ./ca/sict/adamstinziani/*.java
+
+echo Main-Class: ca.sict.adamstinziani.Workshop >./ca/sict/adamstinziani/manifest.txt
+
+jar -cvfm ./ca/sict/adamstinziani/Workshop.jar ./ca/sict/adamstinziani/manifest.txt ./ca/sict/adamstinziani/*.class
+
+java -jar ./ca/sict/adamstinziani/Workshop.jar
+
+==================================================================================

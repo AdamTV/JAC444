@@ -1,0 +1,31 @@
+==================================================================================
+
+Workshop: 6
+Name: Adam Stinziani
+ID: 124521188
+
+==================================================================================
+
+In this workshop I continued practicing my basic Java coding skills by creating 
+a GUI and working with a random access file and event handlers again as well as
+using lambda expressions and a functional interface.
+
+I found task 2 to be the hardest part of this workshop for sure. Specifically the
+counter(double value) function which definitely took the most time. Conceptually,
+a functional interface is new to me yet simple to understand. Syntacially,
+implementing a functional interface according to workshop specs was the hard part.
+
+==================================================================================
+
+Instructions on how to run code: 
+from cmd in parent directory of 'ca':
+
+javac ./ca/sict/adamstinziani/*.java
+
+echo Main-Class: ca.sict.adamstinziani.Workshop >./ca/sict/adamstinziani/manifest.txt
+
+jar -cvfm ./ca/sict/adamstinziani/Workshop.jar ./ca/sict/adamstinziani/manifest.txt ./ca/sict/adamstinziani/*.class
+
+java -jar ./ca/sict/adamstinziani/Workshop.jar
+
+==================================================================================

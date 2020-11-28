@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5eb831b9-3bf9-4592-a19c-c119bccdc7f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Workshop6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/Babynames files.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/BabynamesFiles/babynamesranking2009.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/BabynamesFiles/babynamesranking2010.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/BabynamesFiles/babynamesranking2011.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/BabynamesFiles/babynamesranking2012.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/BabynamesFiles/babynamesranking2013.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/BabynamesFiles/babynamesranking2014.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/BabynamesFiles/babynamesranking2015.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/BabynamesFiles/babynamesranking2016.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/BabynamesFiles/babynamesranking2017.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/BabynamesFiles/babynamesranking2018.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/Workshop6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/src/ca/sict/adamstinziani/ArrayCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/src/ca/sict/adamstinziani/ArrayProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/src/ca/sict/adamstinziani/NameRanker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/src/ca/sict/adamstinziani/Stinziani_124521188.mkv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop6/src/ca/sict/adamstinziani/Stinziani_124521188.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workshop5/out/production/Workshop5/ca/sict/adamstinziani/AddressBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/Workshop5/out/production/Workshop5/ca/sict/adamstinziani/AddressBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/template-meta.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/Workshop3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/out/production/Workshop3/ca/sict/adamstinziani/Workshop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/ca/sict/adamstinziani/Workshop.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kIiiF8uGV59H7OiKScSZgNAthM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5eb831b9-3bf9-4592-a19c-c119bccdc7f5" name="Default Changelist" comment="" />
+      <created>1605394632976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605394632976</updated>
+    </task>
+    <servers />
+  </component>
+</project>
