@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d404d8dd-5b87-4200-83a9-65ec23508505" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../EchoMultiThreadClient.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EchoMultiThreadClient/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EchoMultiThreadClient/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EchoMultiThreadClient/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EchoMultiThreadClient/bin/EchoMultiThreadClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EchoMultiThreadClient/src/EchoMultiThreadClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EchoMultiThreadClient/src/EchoMultiThreadClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EchoMultiThreadServer/EchoMultiThreadServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/JavaFxRunLater.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/RunLater.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/out/production/RunLater/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/out/production/RunLater/sample/CounterApp$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/out/production/RunLater/sample/CounterApp$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/out/production/RunLater/sample/CounterApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/out/production/RunLater/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/out/production/RunLater/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RunLater/src/sample/CounterApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop9/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop9/Workshop9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop9/out/production/Workshop9/EchoMultiThreadServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop9/out/production/Workshop9/Echoer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop9/src/ClientMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop9/src/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop9/src/EchoMultiThreadClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop9/src/EchoMultiThreadServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop9/src/Echoer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l1cnRMS2CuvFMu4QpQT2LKRGPk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d404d8dd-5b87-4200-83a9-65ec23508505" name="Default Changelist" comment="" />
+      <created>1606768204947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606768204947</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="591" y="200" key="new project wizard" timestamp="1606768224813">
+      <screen x="81" y="0" width="1839" height="1080" />
+    </state>
+    <state x="591" y="200" key="new project wizard/81.0.1839.1080/1920.0.1920.1080@81.0.1839.1080" timestamp="1606768224813" />
+  </component>
+</project>

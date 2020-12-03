@@ -1,0 +1,44 @@
+==================================================================================
+
+Workshop: 9
+Name: Adam Stinziani
+ID: 124521188
+
+==================================================================================
+
+In this workshop I continued practicing my basic Java coding skills by focuing on
+Java threads, JavaFX and Java Networking with Socket programming.
+
+I was surprised how easy it was to complete this workshop especially once I
+understood how to use Platform.runLater() from JavaFX and ironed out the
+client/server logic. Having a list of sockets in the server for each client and 
+identifying them with an id really helped.
+
+==================================================================================
+
+Instructions on how to run code: 
+from cmd in parent directory of 'ca':
+
+CLIENT
+
+java -classpath "C:\Program Files\Java\jre1.8.0_261\lib\ext\jfxrt.jar" ".\ca\sict\adamstinziani\ClientMain.java" ".\ca\sict\adamstinziani\Client.java"
+
+echo Main-Class: ca.sict.adamstinziani.ClientMain >./ca/sict/adamstinziani/manifest.txt
+
+jar -cvfm ./ca/sict/adamstinziani/Workshop.jar ./ca/sict/adamstinziani/manifest.txt ./ca/sict/adamstinziani/Client*.class
+
+java -jar ./ca/sict/adamstinziani/Workshop.jar
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SERVER
+
+java -classpath "C:\Program Files\Java\jre1.8.0_261\lib\ext\jfxrt.jar" ".\ca\sict\adamstinziani\ServerMain.java" ".\ca\sict\adamstinziani\Server.java" ".\ca\sict\adamstinziani\MultiThreadServer.java"
+
+echo Main-Class: ca.sict.adamstinziani.ServerMain >./ca/sict/adamstinziani/manifest.txt
+
+jar -cvfm ./ca/sict/adamstinziani/Workshop.jar ./ca/sict/adamstinziani/manifest.txt ./ca/sict/adamstinziani/Server*.class ./ca/sict/adamstinziani/MultiThreadServer.class
+
+java -jar ./ca/sict/adamstinziani/Workshop.jar
+
+==================================================================================
