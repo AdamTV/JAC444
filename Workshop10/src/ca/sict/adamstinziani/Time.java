@@ -33,8 +33,8 @@ public class Time implements Cloneable, Comparable<Time> {
 
     // Time object created with hour, minute, and second parameters.
     Time(int hour, int minute, int second) {
-        this.hour = hour % 24;
-        this.minute = minute % 60;
+        this.hour = (hour % 24) + (minute / 60);
+        this.minute = (minute % 60) + (second / 60);
         this.second = second % 60;
         secsSinceEpoch = (long) hour * 60 * 60 + minute * 60L + second;
     }

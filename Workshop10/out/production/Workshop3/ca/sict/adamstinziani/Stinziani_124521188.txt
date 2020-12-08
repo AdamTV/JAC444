@@ -1,0 +1,30 @@
+==================================================================================
+
+Workshop: 10
+Name: Adam Stinziani
+ID: 124521188
+
+==================================================================================
+
+In this workshop I overviewed some concepts from pervious workshops and new ones
+including the Comparable interface and the Clonable interface.
+
+Some other new classes I worked with included LocalDateTime, TimeZone and ZoneId.
+Using these classes, I was able to calculate the current time specific to the 
+default time zone on the system. Modulus came in use quite a bit when creating
+the Time class.
+
+==================================================================================
+
+Instructions on how to run code: 
+from cmd in parent directory of 'ca':
+
+javac ./ca/sict/adamstinziani/*.java
+
+echo Main-Class: ca.sict.adamstinziani.Workshop >./ca/sict/adamstinziani/manifest.txt
+
+jar -cvfm ./ca/sict/adamstinziani/Workshop.jar ./ca/sict/adamstinziani/manifest.txt ./ca/sict/adamstinziani/*.class
+
+java -jar ./ca/sict/adamstinziani/Workshop.jar
+
+==================================================================================
